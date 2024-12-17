@@ -2,7 +2,7 @@
 myenv/
 
 # Ignore faiss index folder
-faiss/
+faiss_index/
 
 # Ignore Python cache files
 __pycache__/
