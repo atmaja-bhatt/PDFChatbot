@@ -1,0 +1,11 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore faiss index folder
+faiss/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore .env file
+.env
